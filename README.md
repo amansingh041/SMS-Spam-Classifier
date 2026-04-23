@@ -22,6 +22,7 @@ Advanced text preprocessing:
     Porter Stemmer
     Feature extraction using TF-IDF Vectorization
 Multiple ML models implemented:
+    Bernoulli Naive Bayes
     Multinomial Naive Bayes
     Support Vector Classifier (SVC)
     Random Forest Classifier
@@ -51,12 +52,12 @@ Seaborn
 Scikit-learn
 NLP (Natural Language Processing)
 
-### Model Performance (Example)
-Random Forest Classifier Model
-    Training Accuracy: 97.58%
-    Testing Accuracy: 99.97%
-    Precision: 100%
-    Recall: 99.8%
+### Model Performance 
+Bernoulli Naive Bayes Model
+    Training Accuracy: 99.34%
+    Testing Accuracy: 99.03%
+    Precision: 98.48%
+    Recall: 94.2%
 
 ### Future Improvements
 Deploy as a web application using Flask
